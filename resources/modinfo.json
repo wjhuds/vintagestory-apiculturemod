@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "apiculturemod",
+  "name": "Apiculture - Advanced Beekeeping",
+  "description" : "This mod extends the beekeeping system in the vanilla game, adding framed hives and smokers for more efficient honey gathering",
+  "authors": ["Caboozki"],
+  "version": "0.1",
+  "dependencies": { 
+	"game": "",
+	"survival": ""
+  },
+  "website": ""
+}

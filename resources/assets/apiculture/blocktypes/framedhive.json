@@ -1,0 +1,20 @@
+{
+	code: "framedhive",
+	class: "framedHive",
+	creativeinventory: { "general": ["*"] },
+	blockmaterial: "Wood",
+	drawtype: "cube",
+	textures: {
+    up: { base: "block/framedhive/top" },
+    down: { base: "block/framedhive/bottom"},
+    south: { base: "block/framedhive/side"},
+    north: { base: "block/framedhive/front"},
+    west: { base: "block/framedhive/side"},
+    east: { base: "block/framedhive/side"}
+	},
+	resistance: 3.5,
+	sounds: {
+		"place": "game:block/planks",
+		"walk": "game:walk/default"
+	}
+}

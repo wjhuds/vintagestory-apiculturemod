@@ -1,0 +1,8 @@
+E:\Other Games\Vintagestory\Apiculture\bin\Debug\net452\Apiculture.dll
+E:\Other Games\Vintagestory\Apiculture\bin\Debug\net452\Apiculture.pdb
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.csprojAssemblyReference.cache
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.csproj.CoreCompileInputs.cache
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.AssemblyInfoInputs.cache
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.AssemblyInfo.cs
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.dll
+E:\Other Games\Vintagestory\Apiculture\obj\Debug\net452\Apiculture.pdb
